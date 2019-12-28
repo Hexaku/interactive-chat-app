@@ -1,5 +1,7 @@
 # Interactive Chat App
 
+This is an interactive chat app built with React and using Firebase for the database. You can connect yourself with a name and send messages. Try to connect with another name to see your old messages in some Messenger's style. This project use CSS Transitions and React-dom-router.
+
 ![](public/chat-app.png)
 ![](public/chat-connexion.png)
 
